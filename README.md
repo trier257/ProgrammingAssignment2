@@ -103,3 +103,12 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+
+### Modification
+
+The file was modified to add the code for the makeCacheMatrix and cacheSolve
+functions. In addition a simple test function was added that creates a
+small 3x3 matrix, makes a cache-able matrix with it, then exercises the
+cacheSolve function -- first to do the inverse the first time, then to
+use the cached inverse to get the inverse the second time.
+
