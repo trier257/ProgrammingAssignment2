@@ -1,5 +1,7 @@
 ### Introduction
 
+Note: see end of README for a brief explanation of code changes.
+
 This second programming assignment will require you to write an R
 function that is able to cache potentially time-consuming computations.
 For example, taking the mean of a numeric vector is typically a fast
